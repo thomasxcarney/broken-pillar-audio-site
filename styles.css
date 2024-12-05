@@ -1,0 +1,40 @@
+* {
+  font-family: Futura, sans-serif;
+  background-color: black;
+  color: white;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+}
+
+.navbar * {
+  padding: 1%;
+}
+
+.navbar > img {
+  max-width: 15%;
+}
+
+p {
+  font-family: poppins;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: lighter;
+}
+
+#client-list {
+  display: flex;
+}
+
+#home-content,
+#credit-content {
+  margin: 20px;
+}
